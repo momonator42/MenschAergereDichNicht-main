@@ -1,0 +1,6 @@
+ignore:
+  - "src/main/scala/de/htwg/se/madn/Main.scala"
+  - "src/main/scala/de/htwg/se/madn/aview/GUI.scala"
+  - "src/main/scala/de/htwg/se/madn/aview/Tui.scala"
+  - "src/main/scala/de/htwg/se/madn/model/fileIoComponent/fileIoJsonImpl/fileIoJsonImpl.scala"
+  - "src/main/scala/de/htwg/se/madn/model/FigureComponent/FigureInterface.scala"

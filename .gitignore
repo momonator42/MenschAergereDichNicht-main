@@ -1,0 +1,24 @@
+.vscode
+.metals
+.bloop
+*.json
+*.xml
+
+project/metals.sbt
+
+# sbt
+project/project/
+project/target/
+target/
+target
+
+.ammonite
+.bsp
+null/
+out
+.idea
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
